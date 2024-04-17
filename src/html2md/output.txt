@@ -1,0 +1,15 @@
+This is some basic, sample markdown.
+
+* Unordered lists, and:
+1 One
+
+2 Two
+
+3 Three
+
+
+
+* More
+
+There are **bold**, _italics_, and even _italics and later **bold**_.Even **strikethrough**. And even <u>underline</u>.
+

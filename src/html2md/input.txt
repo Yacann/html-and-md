@@ -1,0 +1,14 @@
+<p>This is some basic, sample markdown.</p>
+
+<ul>
+<li>Unordered lists, and:<ol>
+<li>One</li>
+<li>Two</li>
+<li>Three</li>
+</ol>
+</li>
+<li>More</li>
+</ul>
+
+<p>There are <b>bold</b>, <i>italics</i>, and even <i>italics and later <b>bold</b></i>.
+Even <s>strikethrough</s>. And even <u>underline</u>.</p>
